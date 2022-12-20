@@ -40,8 +40,6 @@ Currently a student of Alura Online Courses, where I have been focusing my studi
 
 ## Languages and Tools  
 <div align="center">  
-
-  
 <a href="https://spring.io" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" height="25" /></a>    
 <a href="https://figma.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" height="25" /></a>    
 <a href="https://java.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="25" /></a>  
